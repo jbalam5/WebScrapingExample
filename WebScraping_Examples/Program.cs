@@ -16,7 +16,7 @@ namespace WebScraping_Examples
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Example1.Selenium_Search());
         }
     }
 }
